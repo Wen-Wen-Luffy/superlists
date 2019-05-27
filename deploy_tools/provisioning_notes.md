@@ -24,10 +24,17 @@ eg, on Ubuntu(16.04):
 Assume we have a user account at /home/username
 
 /home/username
+
 └── sites
+
     └── SITENAME
+
         ├── databse
+
         ├── source
+
         ├── static
+
         └── virtualenv
+        
         :smile:
