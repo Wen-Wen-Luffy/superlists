@@ -27,14 +27,9 @@ Assume we have a user account at /home/username
 
 └── sites
 
-    └── SITENAME
+        └── SITENAME
+            ├── databse
+            ├── source
+            ├── static
+            └── virtualenv
 
-        ├── databse
-
-        ├── source
-
-        ├── static
-
-        └── virtualenv
-        
-        :smile:
